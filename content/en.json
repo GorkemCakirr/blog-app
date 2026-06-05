@@ -1,0 +1,14 @@
+{
+  "Blog": {
+    "main": "Blog",
+    "sub": "Discover the latest insights on AI, technology, and business.",
+    "tags": "Tags",
+    "lastUpdated": "Last Updated",
+    "previousPost": "Previous Post",
+    "nextPost": "Next Post",
+    "noPosts": "No blog posts available at the moment.",
+    "prev": "Prev",
+    "next": "Next",
+    "page": "Page"
+  }
+}

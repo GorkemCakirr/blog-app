@@ -24,3 +24,11 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.text-muted-foreground {
+  color: #6b7280;
+}
+
+.dark .text-muted-foreground {
+  color: #9ca3af;
+}
